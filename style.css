@@ -1,0 +1,132 @@
+#wrapper{
+    width:1000px;
+    height: 1000px;
+    background-color: #EDEAEA;
+    margin: 0 auto;
+}
+#header{
+    width:1000px;
+    height: 650px;
+    background-color: #285175;
+    margin:0 auto;
+}
+#python{
+    width: 300px;
+    height: 100px;
+    margin: 21px;
+}
+#searchBarBackground{
+    background-color: #444444;
+    border-radius: 10px;
+    width: 250px;
+    height: 50px;
+}
+#searchBar{
+    width: 145px;
+    height: 28px;
+    margin: 7px 12px 15px 41px;
+    text-align: center;
+}
+#topRight{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 380px;
+    margin-top: 23px;
+}
+#topRight p{
+    color:white;
+    display: inline;
+    margin-left: 50px;;
+}
+#topRight a{
+    color:yellow;
+}
+#topRight span{
+    color: black;
+}
+#topRight button{
+    background-color:#285175;
+    border-radius: 5px;
+    
+    
+}
+#topRight span{
+    color:white;
+}
+#banner{
+    background-color: #4b7eab;
+    width: 860px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 100px;
+    box-shadow: 6px 3px 13px 0;
+}
+#banner li{
+    display: inline-block;
+    color: white;
+    font-size: 24px;
+    margin: 12px;
+    margin-left: 20px;
+}
+#headerUl{
+    display: inline-block; 
+    margin-left: 116px;  
+    text-align: center; 
+    margin-top: 25px;
+    vertical-align: top;
+}
+#headerUl > ul > li >a{
+    margin: 12px;
+    text-align: center;
+    color: white;
+}
+#headerUl > ul > li{
+    margin:10px;
+}
+#main > p{
+    color:white;
+    display: inline-block;
+    font-size: 14px;
+    width:547px;
+}
+#yellowLines{
+    color: yellow;
+    font-style: italic;
+    font-size: 21px;
+    margin-left: 36px;
+}
+#main{
+ width:500px; 
+ display: inline-block; 
+ text-align: center; 
+}
+.bottomContent{
+    width: 340px;
+    height: 250px;
+    border-top: solid;
+    border-color: #4b7eab;
+    margin-top: 20px;
+    margin-left: 129px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+#footer{
+    width:1000px;
+    background-color: #285175;
+}
+#footer li{
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 83px;
+    margin-top:14px;
+    padding: 10px;
+}
+#footer p{
+    font-size: 10px;
+    color:#7baad5;
+    text-align: center;
+    display: inline-block; 
+    margin-left: 450px;
+}
+
